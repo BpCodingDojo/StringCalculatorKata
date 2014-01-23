@@ -1,2 +1,5 @@
-StringCalculator
-================
+StringCalculatorKata
+====================
+
+
+
